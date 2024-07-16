@@ -1,1 +1,1 @@
-MapKit Application created using swiftUI
+MapKit Application created using swiftUI ans MVVM
